@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(0, 130, 170);
+}
+h1{
+    color: rgb(0, 37, 139);
+    font-size: 20px;
+}
+h1.titulo{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(0, 47, 94);
+}
+h1.Lobo{
+    font-size: 20px;
+    color: rgb(0, 37, 139);
+}
+p.lobo{
+    font-size: 20px;
+    color: black;
+}
+h1.AguiaBranca{
+    font-size: 20px;
+    color: rgb(0, 37, 139);
+}
+p.aguiabranca{
+    font-size: 20px;
+    color: black;
+}
+h1.Leao{
+    font-size: 20px;
+    color: rgb(0, 37, 139);
+}
+p.leao{
+    font-size: 20px;
+    color: black;
+}
+h1.Tigre{
+    font-size: 20px;
+    color: rgb(0, 37, 139);
+}
+p.tigre{
+    font-size: 20px;
+    color: black;
+}
+img{
+    width: 500px;
+    height: auto;
+}
+.LOBRAUNS{
+        border: 10px solid;
+        border-radius: 15px;
+        align-items: center;
+}
